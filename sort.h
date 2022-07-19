@@ -13,6 +13,8 @@
  * enum bool - Enumeration of Boolean values.
  * @false: Equals 0.
  * @true: Equals 1.
+ *
+ * Authors: Francesca Lynn Asiedu & Lawrence Adams
  */
 typedef enum bool
 {
