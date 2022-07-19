@@ -8,6 +8,7 @@ int vcmp(const card_t *card1, const card_t *card2);
 /**
  * sort_deck - sorts a 52 card deck
  * @deck: deck to sort
+ *Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
  *
  * Return: Always 0 (ok)
  */
