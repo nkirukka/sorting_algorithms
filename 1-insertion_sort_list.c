@@ -4,7 +4,8 @@ void swap(listint_t **head, listint_t *node1, listint_t *node2);
 /**
  * insertion_sort_list - sorts a doubly linked list with
  * the insertion sort algorithm
- *
+ * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ 
  * @list: list to be sorted
  *
  * Return: void
