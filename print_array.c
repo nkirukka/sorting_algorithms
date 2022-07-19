@@ -6,6 +6,8 @@
  *
  * @array: The array to be printed
  * @size: Number of elements in @array
+ *
+ * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
  */
 void print_array(const int *array, size_t size)
 {
