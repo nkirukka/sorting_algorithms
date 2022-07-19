@@ -9,6 +9,8 @@ void radix_sort(int *array, size_t size);
  * @array: An array of integers.
  * @size: The size of the array.
  *
+ * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ *
  * Return: The maximum integer in the array.
  */
 int get_max(int *array, int size)
