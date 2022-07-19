@@ -8,6 +8,8 @@ int split(int *arr, int left, int right, size_t size);
   * quick_sort - quicksort algorithm
   * @array: array to be sorted
   * @size: size of array
+  *
+  * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
   */
 void quick_sort(int *array, size_t size)
 {
