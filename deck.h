@@ -7,6 +7,8 @@
  * @HEART: heart suit
  * @CLUB: club suit
  * @DIAMOND: diamond suit
+ *
+ * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
  */
 typedef enum kind_e
 {
